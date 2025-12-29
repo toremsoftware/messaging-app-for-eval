@@ -23,6 +23,16 @@ A partir de esto, se deberá completar y extender la aplicación.
 
 ---
 
+## Uso de la API
+
+Hemos desarrollado una API de mensajería básica para que puedas probar la aplicación. Podés acceder a ella a través del siguiente link:
+
+👉 https://github.com/toremsoftware/messaging-api-for-eval
+
+Dentro del archivo README.md vas a encontrar las instrucciones para levantarla de forma local. Ten en cuenta que esta API tiene como único objetivo facilitar el desarrollo de la aplicación; no es necesario ni esperado que realices cambios sobre ella, ya que no forma parte de la evaluación.
+
+---
+
 ## Alcance del desafío
 
 ### 1. Autenticación y Splash Screen
