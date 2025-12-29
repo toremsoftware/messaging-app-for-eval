@@ -135,3 +135,5 @@ Los siguientes puntos no son obligatorios, pero serán considerados un plus:
 ## Notas finales
 
 No existe una única forma correcta de resolver el desafío. Se valoran especialmente las soluciones simples, claras y bien razonadas, por sobre implementaciones innecesariamente complejas.
+
+Mucha suerte! 🍀
